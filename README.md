@@ -1,2 +1,7 @@
-# Apllied-Accelerated-Artificial-Intelligence
-📚 Notes, code, and project experiments from NPTEL's "Applied Accelerated AI" course — covering AI accelerators, GPUs, edge inference, and hardware-software co-design.
+# Applied Accelerated AI — NPTEL Course (Notes & Experiments)
+📚 This repository contains my personal notes, code snippets, and experiments from the **NPTEL course on Applied Accelerated AI**, which focuses on how AI models are accelerated using specialized hardware like **GPUs, TPUs, ASICs, and FPGAs** , edge-inference.
+
+## 📌 Course Overview
+
+## 📁 Repository Structure
+
